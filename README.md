@@ -17,9 +17,9 @@
 
 ### 🚀 Strategic Focus
   
-🔭 **Core Mission:** Designing autonomous AI agents and modern SaaS architectures as a student builder.
-🌱 **Researching:** Advanced Vector Databases, low-latency LLM inference, and CI/CD for AI.
-🏗️ **Infrastructure:** Building with a "Security-First" mindset and high-concurrency performance.
+🔭 **Core Mission:** Designing autonomous AI agents and modern SaaS architectures as a student builder./
+🌱 **Researching:** Advanced Vector Databases, low-latency LLM inference, and CI/CD for AI./
+🏗️ **Infrastructure:** Building with a "Security-First" mindset and high-concurrency performance./
 🧠 **Principles:** Writing self-documenting code and building systems that scale horizontally.
 
 </div>
