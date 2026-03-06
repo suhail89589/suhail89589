@@ -1,11 +1,12 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suhail%20Malik&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Full%20Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Future%20SaaS%20Founder&descAlignY=55&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suhail%20Malik&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Frontend+%26+Backend+Architecture;AI+Tools+%26+Automation;Building+Intelligent+SaaS+Products;Designing+Scalable+Systems" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Architecting+Autonomous+AI+Agents;Building+Scalable+SaaS+Infrastructure;Optimizing+LLM+RAG+Pipelines;Full+Stack+System+Design" alt="Typing SVG" />
 
 <p align="center">
-  <b>A purposeful builder focused on creating intelligent tools, seamless automations, and scalable architectures.</b><br/>Evolving the future of software through AI and system design.
+  <b>Engineering intelligent tools, seamless automations, and resilient architectures.</b><br/>
+  Bridging the gap between sophisticated AI models and production-ready software.
 </p>
 
 </div>
@@ -14,12 +15,12 @@
 
 <div align="center">
 
-### 🚀 About Me
+### 🚀 Strategic Focus
   
-🔭 **Focusing on:** AI agents, automation, system design, and SaaS product development  
-🌱 **Currently exploring:** Advanced LLM integrations, optimized data pipelines, and developer workflows  
-🏗️ **Objective:** Evolving as a Future SaaS Founder by solving high-impact problems  
-🧠 **Philosophy:** Writing clean code that tells a story and building tools that scale efficiently  
+🔭 **Core Mission:** Designing autonomous AI agents and enterprise-grade SaaS architectures.
+🌱 **Researching:** Advanced Vector Databases, low-latency LLM inference, and CI/CD for AI.
+🏗️ **Infrastructure:** Building with a "Security-First" mindset and high-concurrency performance.
+🧠 **Principles:** Writing self-documenting code and building systems that scale horizontally.
 
 </div>
 
@@ -27,9 +28,9 @@
 
 <div align="center">
 
-### 💻 Tech Stack
+### 💻 Technical Ecosystem
 
-<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,docker,git&theme=dark&perline=8" alt="Tech Stack" />
+<img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,python,docker,git,ts,nextjs,postgres,aws&theme=dark&perline=8" alt="Tech Stack" />
 
 </div>
 
@@ -37,40 +38,24 @@
 
 <div align="center">
 
-### 📊 GitHub Analytics
+### 📈 System Activity
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhail89589&theme=react-dark&hide_border=true&bg_color=0D1117" width="800" alt="Activity Graph" />
 
-<img src="https://github-readme-stats.vercel.app/api?username=suhailmalik&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="195" alt="GitHub Stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=suhailmalik&theme=radical&hide_border=true&background=0D1117" height="195" alt="GitHub Streak" />
+</div>
+
+---
+
+<div align="center">
+
+### 🛠️ Featured Engineering Labs
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhailmalik&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="400" alt="Top Languages" />
-
-</div>
-
----
-
-<div align="center">
-
-### 📈 Contribution Graph
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=suhailmalik&theme=react-dark&hide_border=true&bg_color=0D1117" width="800" alt="Activity Graph" />
-
-</div>
-
----
-
-<div align="center">
-
-### 🛠️ Featured Projects
-
-<br/>
-
-| 🚀 Project | 📝 Description | 🛠️ Main Tech | 🔗 Links |
+| 🚀 Project | 📝 Impact & Solution | 🛠️ Stack | 🔗 Links |
 | :--- | :--- | :---: | :---: |
-| **Brofessor AI** | AI-powered educational agent acting as an advanced personalized tutor. | `Python` `AI` | [Repo](#) / [Live](#) |
-| **QuizPrepX** | Automated assessment and intelligent quiz generation platform for continuous learning. | `React` `Node.js` | [Repo](#) / [Live](#) |
-| **P2P File Transfer** | Secure, fast, and highly resilient decentralized peer-to-peer file sharing protocol. | `JavaScript` | [Repo](#) / [Live](#) |
+| **Brofessor AI** | Adaptive educational agent utilizing RAG for hyper-personalized tutoring. | `RAG` `OpenAI` |
+| **VOX** | Intelligent Study engine Built for Vision Impaired Students. |  `Node.js` `DeepGram` | 
+| **LastView** |   Built to Reduce Cost and Time for Hiring while Managing Proper Screening of Every Potential Candidate. |  `Agentic AI` `RAG` | 
 
 </div>
 
@@ -78,12 +63,12 @@
 
 <div align="center">
 
-### 🌐 Let's Connect
+### 🌐 Connectivity Protocol
 
-<a href="https://github.com/suhailmalik">
+<a href="https://github.com/suhail89589">
   <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white" alt="GitHub" />
 </a>
-<a href="https://linkedin.com/in/suhailmalik">
+<a href="https://linkedin.com/in/suhail89589">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="mailto:your.email@example.com">
@@ -92,7 +77,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=suhailmalik&label=Profile%20Views&color=8B5CF6&style=flat-square" alt="Visitor Counter" />
+<img src="https://komarev.com/ghpvc/?username=suhail89589&label=System%20Accesses&color=8B5CF6&style=flat-square" alt="Visitor Counter" />
 
 <br/><br/>
 
