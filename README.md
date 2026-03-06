@@ -3,12 +3,12 @@
 <h1 align="center">Hi 👋 I'm Suhail Malik</h1>
 
 <h3 align="center">
-Full Stack Developer | AI Builder | Future SaaS Founder
+Full Stack Developer | AI Engineer | SaaS Builder
 </h3>
 
 <p align="center">
 🚀 Building AI products <br>
-🤖 Exploring AI Agents & Voice AI <br>
+🤖 Exploring AI Agents & AI Engineer <br>
 💡 Passionate about Startups & Automation
 </p>
 
@@ -60,11 +60,11 @@ Full Stack Developer | AI Builder | Future SaaS Founder
 🚀 **Brofessor AI**  
 AI tutor that teaches like your smartest friend.
 
-📚 **QuizPrepX**  
-Smart quiz generation platform.
+📚 **Vox**  
+An AI integrated Project to help Blind Students.
 
-📡 **P2P File Transfer**  
-Direct peer-to-peer file sharing system.
+📡 **LastView**  
+Future of Hiring through AI systems.
 
 ---
 
