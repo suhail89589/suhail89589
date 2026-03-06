@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suhail%20Malik&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Senior%20Software%20Engineer%20%7C%20AI%20Systems%20Architect&descAlignY=55&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suhail%20Malik&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=Aspiring%20Software%20Engineer%20%7C%20AI%20Systems%20Student&descAlignY=55&descAlign=50&descSize=20" width="100%" alt="Header Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=Architecting+Autonomous+AI+Agents;Building+Scalable+SaaS+Infrastructure;Optimizing+LLM+RAG+Pipelines;Full+Stack+System+Design" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=600&lines=First+Year+CS+Student;Architecting+Autonomous+AI+Agents;Building+Scalable+SaaS+Infrastructure;Exploring+LLM+RAG+Pipelines" alt="Typing SVG" />
 
 <p align="center">
   <b>Engineering intelligent tools, seamless automations, and resilient architectures.</b><br/>
@@ -17,7 +17,7 @@
 
 ### 🚀 Strategic Focus
   
-🔭 **Core Mission:** Designing autonomous AI agents and enterprise-grade SaaS architectures.
+🔭 **Core Mission:** Designing autonomous AI agents and modern SaaS architectures as a student builder.
 🌱 **Researching:** Advanced Vector Databases, low-latency LLM inference, and CI/CD for AI.
 🏗️ **Infrastructure:** Building with a "Security-First" mindset and high-concurrency performance.
 🧠 **Principles:** Writing self-documenting code and building systems that scale horizontally.
@@ -51,11 +51,11 @@
 
 <br/>
 
-| 🚀 Project | 📝 Impact & Solution | 🛠️ Stack | 🔗 Links |
-| :--- | :--- | :---: | :---: |
+| 🚀 Project | 📝 Impact & Solution | 🛠️ Stack |
+| :--- | :--- | :---: |
 | **Brofessor AI** | Adaptive educational agent utilizing RAG for hyper-personalized tutoring. | `RAG` `OpenAI` |
-| **VOX** | Intelligent Study engine Built for Vision Impaired Students. |  `Node.js` `DeepGram` | 
-| **LastView** |   Built to Reduce Cost and Time for Hiring while Managing Proper Screening of Every Potential Candidate. |  `Agentic AI` `RAG` | 
+| **VOX** | Intelligent study engine built specifically for vision-impaired students. | `Node.js` `DeepGram` |
+| **LastView** | Agentic AI screening tool built to reduce hiring costs and optimize time-to-hire. | `Agentic AI` `RAG` |
 
 </div>
 
