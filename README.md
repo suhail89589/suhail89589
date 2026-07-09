@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suhail%20Malik&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%7C%20IIT%20Madras%20%7C%20Youth%20Economy%20Lab%20Fellow&descAlignY=55&descAlign=50&descSize=20"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Suhail%20Malik&fontSize=70&fontAlignY=35&fontColor=ffffff&animation=twinkling&desc=AI%20Engineer%20%7C%20IIT%20Madras%20%7C%20Software%20Engineer&descAlignY=55&descAlign=50&descSize=20"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=720&lines=Building+LLM+Applications;Designing+Agentic+AI+Systems;RAG+%7C+FastAPI+%7C+Python;Founder+%40+Divergix+Labs;Researching+AI+for+Human+Decision+Intelligence"/>
 
@@ -19,7 +19,7 @@ Focused on LLM applications, AI agents, retrieval systems, and real-world AI pro
 
 🔬 Founder of **Divergix Labs**, exploring AI systems for decision intelligence and human-centered computing.
 
-🌍 Youth Economy Lab Fellow collaborating on AI, innovation, and future-of-work initiatives.
+💻 Software Engineer designing full-stack web applications, dynamic automation pipelines, and modern interfaces.
 
 ⚡ Currently learning FastAPI, vector databases, agent orchestration, and scalable AI infrastructure.
 
@@ -86,11 +86,11 @@ Focused on LLM applications, AI agents, retrieval systems, and real-world AI pro
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://linkedin.com/in/suhail89589">
+<a href="https://www.linkedin.com/in/suhailmalik-/">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:mohdsuhail8958911@gmail.com">
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 
